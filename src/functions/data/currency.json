@@ -1,0 +1,452 @@
+[
+  {
+    "name": "VER.AR.EMIR. -DIRHAM",
+    "code": "AED",
+    "euro": 4.1633,
+    "foreign": 0.24019408
+  },
+  {
+    "name": "NED.ANTILLEN -GULDEN",
+    "code": "ANG",
+    "euro": 2.0289,
+    "foreign": 0.49287791
+  },
+  {
+    "name": "AUSTRALIE - DOLLAR",
+    "code": "AUD",
+    "euro": 1.5844,
+    "foreign": 0.63115375
+  },
+  {
+    "name": "ARUBA - FLORIN",
+    "code": "AWG",
+    "euro": 2.0289,
+    "foreign": 0.49287791
+  },
+  {
+    "name": "BANGLADESH - TAKA",
+    "code": "BDT",
+    "euro": 95.38,
+    "foreign": 0.01048438
+  },
+  {
+    "name": "BULGARIJE - LEV",
+    "code": "BGN",
+    "euro": 1.9558,
+    "foreign": 0.51129972
+  },
+  {
+    "name": "BAHREIN - DINAR",
+    "code": "BHD",
+    "euro": 0.4273,
+    "foreign": 2.34027615
+  },
+  {
+    "name": "BRUNEI - DOLLAR",
+    "code": "BND",
+    "euro": 1.5343,
+    "foreign": 0.65176302
+  },
+  {
+    "name": "BRAZILIE - REAL",
+    "code": "BRL",
+    "euro": 4.2019,
+    "foreign": 0.23798758
+  },
+  {
+    "name": "BOTSWANA - PULA",
+    "code": "BWP",
+    "euro": 12.0452,
+    "foreign": 0.08302062
+  },
+  {
+    "name": "WIT-RUSLAND - ROEBEL",
+    "code": "BYN",
+    "euro": 2.437,
+    "foreign": 0.41034058
+  },
+  {
+    "name": "CANADA - DOLLAR",
+    "code": "CAD",
+    "euro": 1.4956,
+    "foreign": 0.66862798
+  },
+  {
+    "name": "ZWITSERLAND - FRANC",
+    "code": "CHF",
+    "euro": 1.1342,
+    "foreign": 0.88167872
+  },
+  {
+    "name": "CHILI - PESOS",
+    "code": "CLP",
+    "euro": 743.9984,
+    "foreign": 0.00134409
+  },
+  {
+    "name": "CHINA - R.M.B. YUAN",
+    "code": "CNY",
+    "euro": 7.6244,
+    "foreign": 0.13115786
+  },
+  {
+    "name": "COSTA RICA -COLONES",
+    "code": "CRC",
+    "euro": 689.6153,
+    "foreign": 0.00145008
+  },
+  {
+    "name": "TSJECHIE - KORUNA",
+    "code": "CZK",
+    "euro": 25.679,
+    "foreign": 0.03894233
+  },
+  {
+    "name": "DENEMARKEN - KROON",
+    "code": "DKK",
+    "euro": 7.4614,
+    "foreign": 0.13402311
+  },
+  {
+    "name": "DOMINIC.REPU. - PESO",
+    "code": "DOP",
+    "euro": 57.3584,
+    "foreign": 0.01743424
+  },
+  {
+    "name": "ALGERIJE - DINAR",
+    "code": "DZD",
+    "euro": 134.6995,
+    "foreign": 0.00742393
+  },
+  {
+    "name": "EGYPTE - POND",
+    "code": "EGP",
+    "euro": 19.8762,
+    "foreign": 0.05031143
+  },
+  {
+    "name": "FIJI - DOLLAR",
+    "code": "FJD",
+    "euro": 2.4114,
+    "foreign": 0.41469686
+  },
+  {
+    "name": "VER.KONINKRIJK -POND",
+    "code": "GBP",
+    "euro": 0.86945,
+    "foreign": 1.1501524
+  },
+  {
+    "name": "NIEUW GHANA - CEDI",
+    "code": "GHS",
+    "euro": 5.945,
+    "foreign": 0.16820858
+  },
+  {
+    "name": "GUATEMALA - QUETZAL",
+    "code": "GTQ",
+    "euro": 8.7529,
+    "foreign": 0.11424785
+  },
+  {
+    "name": "HONG KONG - DOLLAR",
+    "code": "HKD",
+    "euro": 8.9026,
+    "foreign": 0.11232674
+  },
+  {
+    "name": "KROATIE - KUNA",
+    "code": "HRK",
+    "euro": 7.4135,
+    "foreign": 0.13488905
+  },
+  {
+    "name": "HONGARIJE - FORINT",
+    "code": "HUF",
+    "euro": 317.33,
+    "foreign": 0.00315129
+  },
+  {
+    "name": "INDONESIE - RUPIAH",
+    "code": "IDR",
+    "euro": 15.92417,
+    "foreign": 0.0000628
+  },
+  {
+    "name": "ISRAEL - SHEKEL",
+    "code": "ILS",
+    "euro": 4.1004,
+    "foreign": 0.24387865
+  },
+  {
+    "name": "INDIA - RUPEE",
+    "code": "INR",
+    "euro": 80.7035,
+    "foreign": 0.01239104
+  },
+  {
+    "name": "IRAK - DINAR",
+    "code": "IQD",
+    "euro": 1.3488087,
+    "foreign": 0.00074139
+  },
+  {
+    "name": "IJSLAND - KROON",
+    "code": "ISK",
+    "euro": 135.7,
+    "foreign": 0.0073692
+  },
+  {
+    "name": "JAMAICA -DOLLARS",
+    "code": "JMD",
+    "euro": 151.3077,
+    "foreign": 0.00660905
+  },
+  {
+    "name": "JORDANIE - DINAR",
+    "code": "JOD",
+    "euro": 0.8033,
+    "foreign": 1.24486493
+  },
+  {
+    "name": "JAPAN - YEN",
+    "code": "JPY",
+    "euro": 125.61,
+    "foreign": 0.00796115
+  },
+  {
+    "name": "KENYA - SHILLING",
+    "code": "KES",
+    "euro": 113.6286,
+    "foreign": 0.0088006
+  },
+  {
+    "name": "ZUID KOREA - WON",
+    "code": "KRW",
+    "euro": 1.27347,
+    "foreign": 0.00078526
+  },
+  {
+    "name": "KOEWEIT - DINAR",
+    "code": "KWD",
+    "euro": 0.3442,
+    "foreign": 2.90528762
+  },
+  {
+    "name": "SRI LANKA - RUPEE",
+    "code": "LKR",
+    "euro": 203.5624,
+    "foreign": 0.0049125
+  },
+  {
+    "name": "MAROKKO - DIRHAM",
+    "code": "MAD",
+    "euro": 10.7976,
+    "foreign": 0.09261317
+  },
+  {
+    "name": "MACAO - PATACA",
+    "code": "MOP",
+    "euro": 9.1631,
+    "foreign": 0.10913337
+  },
+  {
+    "name": "MAURITIUS - RUPEE",
+    "code": "MUR",
+    "euro": 38.9794,
+    "foreign": 0.02565458
+  },
+  {
+    "name": "MALAWI - KWACHA",
+    "code": "MWK",
+    "euro": 825.1536,
+    "foreign": 0.0012119
+  },
+  {
+    "name": "MEXICO - PESO",
+    "code": "MXN",
+    "euro": 21.7301,
+    "foreign": 0.04601912
+  },
+  {
+    "name": "MALEISIE - RINGGIT",
+    "code": "MYR",
+    "euro": 4.6183,
+    "foreign": 0.21652989
+  },
+  {
+    "name": "NIGERIA - NAIRA",
+    "code": "NGN",
+    "euro": 411.4433,
+    "foreign": 0.00243047
+  },
+  {
+    "name": "NOORWEGEN - KROON",
+    "code": "NOK",
+    "euro": 9.7335,
+    "foreign": 0.10273797
+  },
+  {
+    "name": "NW.ZEELAND - DOLLAR",
+    "code": "NZD",
+    "euro": 1.6513,
+    "foreign": 0.60558348
+  },
+  {
+    "name": "OMAN - RIAL",
+    "code": "OMR",
+    "euro": 0.4364,
+    "foreign": 2.29147571
+  },
+  {
+    "name": "FILIPPIJNEN - PESO",
+    "code": "PHP",
+    "euro": 59.003,
+    "foreign": 0.01694829
+  },
+  {
+    "name": "PAKISTAN - RUPEE",
+    "code": "PKR",
+    "euro": 157.4082,
+    "foreign": 0.00635291
+  },
+  {
+    "name": "POLEN - ZLOTY",
+    "code": "PLN",
+    "euro": 4.3445,
+    "foreign": 0.23017608
+  },
+  {
+    "name": "QATAR - RIYAL",
+    "code": "QAR",
+    "euro": 4.1269,
+    "foreign": 0.24231263
+  },
+  {
+    "name": "ROEMENIE-LEU",
+    "code": "RON",
+    "euro": 4.7567,
+    "foreign": 0.21022978
+  },
+  {
+    "name": "SERVIE - DINAR",
+    "code": "RSD",
+    "euro": 118.0434,
+    "foreign": 0.00847146
+  },
+  {
+    "name": "RUSLAND - ROEBEL",
+    "code": "RUB",
+    "euro": 74.5774,
+    "foreign": 0.01340889
+  },
+  {
+    "name": "SAOEDI ARABIE - RYAL",
+    "code": "SAR",
+    "euro": 4.2509,
+    "foreign": 0.2352443
+  },
+  {
+    "name": "ZWEDEN - KROON",
+    "code": "SEK",
+    "euro": 10.5703,
+    "foreign": 0.09460469
+  },
+  {
+    "name": "SINGAPORE - DOLLAR",
+    "code": "SGD",
+    "euro": 1.5326,
+    "foreign": 0.65248597
+  },
+  {
+    "name": "SURINAME - DOLLAR",
+    "code": "SRD",
+    "euro": 8.4533,
+    "foreign": 0.118297
+  },
+  {
+    "name": "THAILAND - BAHT",
+    "code": "THB",
+    "euro": 35.268,
+    "foreign": 0.02835432
+  },
+  {
+    "name": "TUNESIE - DINAR",
+    "code": "TND",
+    "euro": 3.4637,
+    "foreign": 0.28870861
+  },
+  {
+    "name": "TURKEYE -LIRA",
+    "code": "TRY",
+    "euro": 6.019,
+    "foreign": 0.16614055
+  },
+  {
+    "name": "TRINIDAD/TOBAGO-$",
+    "code": "TTD",
+    "euro": 7.6711,
+    "foreign": 0.1303594
+  },
+  {
+    "name": "TAIWAN - DOLLAR",
+    "code": "TWD",
+    "euro": 34.9613,
+    "foreign": 0.02860306
+  },
+  {
+    "name": "TANZANIA - SHILLING",
+    "code": "TZS",
+    "euro": 2.6443456,
+    "foreign": 0.00037817
+  },
+  {
+    "name": "OEGANDA - SHILLING",
+    "code": "UGX",
+    "euro": 4.1586388,
+    "foreign": 0.00024046
+  },
+  {
+    "name": "U.S.A. - DOLLAR",
+    "code": "USD",
+    "euro": 1.1342,
+    "foreign": 0.88167872
+  },
+  {
+    "name": "VENEZ.-BOLIVAR-FUERT",
+    "code": "VEF",
+    "euro": 283.652759,
+    "foreign": 0.00000353
+  },
+  {
+    "name": "VIETNAM - DONG",
+    "code": "VND",
+    "euro": 26.2955834,
+    "foreign": 0.00003803
+  },
+  {
+    "name": "CTR.AFR.REP. - FRANK",
+    "code": "XAF",
+    "euro": 655.9586,
+    "foreign": 0.00152449
+  },
+  {
+    "name": "ZUID AFRIKA - RAND",
+    "code": "ZAR",
+    "euro": 16.0354,
+    "foreign": 0.06236202
+  },
+  {
+    "name": "ZAMBIA - KWACHA",
+    "code": "ZMW",
+    "euro": 13.5334,
+    "foreign": 0.07389126
+  },
+  {
+    "name": "NEDERLAND - EURO",
+    "code": "EUR",
+    "euro": 1.0,
+    "foreign": 1.0
+  }
+]
